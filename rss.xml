@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Eugene Ng]]></title>
         <description><![CDATA[Eugene Ng]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/eugene-ng/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 30 Mar 2016 18:50:39 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 30 Mar 2016 18:53:25 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/eugene-ng/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Hello to my site!</p>]]></description>
-            <link>undefined4a58fec9-a5eb-47ec-8286-9e9815b7af45/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/10477d76-c837-4dd4-ba09-6b5470b2cb36.jpg">]]></description>
+            <link>https://thegrid.ai/eugene-ng/4a58fec9-a5eb-47ec-8286-9e9815b7af45/index.html</link>
             <guid isPermaLink="false">4a58fec9-a5eb-47ec-8286-9e9815b7af45</guid>
-            <pubDate>Wed, 30 Mar 2016 18:50:07 GMT</pubDate>
+            <pubDate>Wed, 30 Mar 2016 18:52:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
